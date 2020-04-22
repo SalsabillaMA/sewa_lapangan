@@ -1,0 +1,76 @@
+*{
+  box-sizing: border-box;
+}
+.container{
+        width : 100%;
+        margin : 0 auto ;
+      }
+      .lapangan{
+        height: auto;
+        background: url("futsal.png") no-repeat;
+        box-shadow: inset 0 0 0 500px rgba(0,0,0,0.7);
+        background-size: cover;
+        background-position: center;
+        border-bottom: inset;
+        border-color: white;
+      }
+      .riwayat{
+        height: auto;
+        background: url("futsal.png") no-repeat;
+        box-shadow: inset 0 0 0 500px rgba(0,0,0,0.7);
+        background-size: cover;
+        background-position: center;
+        border-bottom: inset;
+        border-color: white;
+      }
+      .transaksi{
+        height: auto;
+        background: url("futsal.png") no-repeat;
+        box-shadow: inset 0 0 0 500px rgba(0,0,0,0.7);
+        background-size: cover;
+        background-position: center;
+        border-bottom: inset;
+        border-color: white;
+      }
+      .cart{
+        height: 730px;
+        background: url("futsal.png") no-repeat;
+        box-shadow: inset 0 0 0 500px rgba(0,0,0,0.7);
+        background-size: cover;
+        background-position: center;
+        border-bottom: inset;
+        border-color: white;
+      }
+      .admin{
+        height: 730px;
+        background: url("futsal.png") no-repeat;
+        box-shadow: inset 0 0 0 500px rgba(0,0,0,0.7);
+        background-size: cover;
+        background-position: center;
+        border-bottom: inset;
+        border-color: white;
+      }
+      .customer{
+        height: 730px;
+        background: url("futsal.png") no-repeat;
+        box-shadow: inset 0 0 0 500px rgba(0,0,0,0.7);
+        background-size: cover;
+        background-position: center;
+        border-bottom: inset;
+        border-color: white;
+      }
+      .login{
+        height: 750px;
+        background: url("futsal.png") no-repeat;
+        box-shadow: inset 0 0 0 500px rgba(0,0,0,0.7);
+        background-size: cover;
+        background-position: center;
+        border-bottom: inset;
+        border-color: white;
+        top: 100px;
+      }
+      .headers h4{
+        text-align : center;
+        color: #fff;
+        margin-top: 250px;
+      }
